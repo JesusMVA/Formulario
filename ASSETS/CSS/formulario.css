@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(65, 243, 243);
+    border-radius: 10px;
+    align-items: center;
+    margin: auto auto;
+    margin-top: 100px;
+    border-color: rgb(0, 13, 130);
+    border-style: solid;
+    height:580px;
+}
+
+body{
+    background-color: rgb(241, 241, 241)
+}
+
+.Titulo{
+    text-align: center;
+    background-color: #53ffbd;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    margin-top: 50px;
+    width: 1300px;
+   
+
+}
+
+
+    
